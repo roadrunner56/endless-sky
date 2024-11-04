@@ -151,7 +151,7 @@ news "Hai sightings: generic citizen"
 			"On my way home from a trip five systems away, I saw this big teardrop-shaped ship with castles on it. It was huge! Bigger than a Navy Cruiser. I bet it was an alien ship. It seemed friendly though."
 			"I saw a man walking down the street... or I thought it was a man, until it walked past a transformer. The man flickered; it was a hologram covering some kind of fuzzy creature."
 			"I saw Nuclear Martini playing at a concert on Prime, and I swear the hairy drummer is some kind of giant squirrel."
-			"There's these game conventions up in the paradise worlds, and I see a lot of short kids wearing full-body squirrel outfits. I'm starting to wonder if they're really aliens."
+			"There's these game conventions up in the Paradise Worlds, and I see a lot of short kids wearing full-body squirrel outfits. I'm starting to wonder if they're really aliens."
 			"There was a crashed ship near me, and I heard rumors of some crazy squirrel inside. The police cleaned it up really quick and now all we see is some scorch marks. The authorities won't say anything."
 			"The pickled acorns they sell in the store taste so good they can't possibly be of human manufacture."
 		word
